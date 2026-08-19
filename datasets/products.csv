@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Unit_of_Measure,Standard_Cost_INR,Selling_Price_INR,Reorder_Level,Safety_Stock,Standard_Lead_Time_Days,Product_Status
+P0001,Stretch Film 001,Packaging,Litre,45625.37,54010.29,364,114,7,Discontinued
+P0002,Laptop 002,Electronics,Pack,77693.1,113481.57,301,86,10,Active
+P0003,Monitor 003,Electronics,Litre,79893.1,99066.63,234,143,8,Active
+P0004,Laptop 004,Electronics,Carton,68583.23,85902.45,310,85,15,Active
+P0005,Printer 005,Office Supplies,Litre,34091.96,39489.73,145,104,18,Active
+P0006,Bubble Wrap 006,Packaging,Litre,71104.93,79682.47,205,68,2,Active
+P0007,Air Filter 007,Automotive,Kg,60879.15,86163.92,194,82,14,Active
+P0008,Snack Pack 008,Food & Beverage,Litre,61286.3,81606.0,81,100,4,Active
+P0009,Bubble Wrap 009,Packaging,Carton,44757.7,62497.13,435,127,13,Active
+P0010,Router 010,Electronics,Piece,9303.7,13074.31,380,29,12,Active
+P0011,Printer Paper 011,Office Supplies,Carton,58278.51,67473.95,348,26,5,Active
+P0012,Brake Pad 012,Automotive,Pack,84256.44,104386.61,307,35,4,Active
+P0013,Bearing 013,Industrial,Pack,16046.13,20345.95,440,231,8,Active
+P0014,Hydraulic Pump 014,Industrial,Carton,23231.07,34582.55,31,150,18,Discontinued
+P0015,Stapler 015,Office Supplies,Piece,77996.38,120814.34,340,128,13,Active
+P0016,Industrial Gloves 016,Industrial,Box,84925.27,115478.27,38,195,4,Active
+P0017,Brake Pad 017,Automotive,Box,72731.6,91281.73,419,65,15,Active
+P0018,Power Drill 018,Industrial,Box,31013.48,39220.21,357,159,15,Active
+P0019,Cooking Oil 019,Food & Beverage,Piece,44998.35,61653.36,417,37,7,Active
+P0020,SSD 020,Electronics,Pack,68706.55,78800.77,28,180,2,Active
+P0021,Industrial Gloves 021,Industrial,Litre,26975.98,35206.89,254,131,9,Active
+P0022,Industrial Gloves 022,Industrial,Box,65480.81,82450.12,356,116,6,Discontinued
+P0023,Industrial Gloves 023,Industrial,Kg,19188.18,27567.1,301,65,10,Active
+P0024,Battery 024,Automotive,Piece,28271.83,38704.28,413,147,15,Discontinued
+P0025,Office Chair 025,Office Supplies,Carton,13997.25,20718.22,417,19,9,Active
+P0026,Coffee Beans 026,Food & Beverage,Piece,79361.52,93680.74,171,23,15,Active
+P0027,Monitor 027,Electronics,Pack,60742.87,83228.29,495,214,13,Active
+P0028,Coffee Beans 028,Food & Beverage,Carton,14001.77,21527.54,29,232,12,Active
+P0029,Engine Oil 029,Automotive,Litre,58626.8,79277.46,236,45,17,Active
+P0030,Laptop 030,Electronics,Piece,80805.43,110482.8,258,168,2,Active
+P0031,Bubble Wrap 031,Packaging,Box,13676.2,18851.36,378,181,10,Active
+P0032,Keyboard 032,Electronics,Litre,17610.18,25255.56,237,188,17,Active
+P0033,Pallet 033,Packaging,Pack,44385.47,60345.18,441,103,17,Active
+P0034,Monitor 034,Electronics,Box,44021.76,67343.7,108,45,14,Discontinued
+P0035,Packing Tape 035,Packaging,Kg,54405.95,68598.07,489,155,6,Active
+P0036,Packing Tape 036,Packaging,Kg,83287.98,120943.43,499,189,5,Discontinued
+P0037,SSD 037,Electronics,Carton,33369.1,45073.75,344,50,14,Discontinued
+P0038,Power Drill 038,Industrial,Litre,30669.56,41876.64,339,40,3,Active
+P0039,Cooking Oil 039,Food & Beverage,Box,16862.58,21242.18,67,207,5,Active
+P0040,Engine Oil 040,Automotive,Pack,41590.94,61099.07,191,99,3,Active
+P0041,Bubble Wrap 041,Packaging,Carton,36328.7,50460.99,372,143,2,Active
+P0042,Bearing 042,Industrial,Litre,70601.84,106686.03,131,24,10,Active
+P0043,Battery 043,Automotive,Kg,22108.58,31469.56,466,119,18,Active
+P0044,Snack Pack 044,Food & Beverage,Carton,53538.58,70972.29,177,19,10,Active
+P0045,Cooking Oil 045,Food & Beverage,Litre,47809.02,67523.11,388,79,14,Active
+P0046,Brake Pad 046,Automotive,Box,42800.71,52483.7,486,202,10,Active
+P0047,Carton Box 047,Packaging,Litre,83768.81,120611.79,224,237,8,Active
+P0048,Industrial Gloves 048,Industrial,Litre,78592.38,96501.42,370,99,18,Active
+P0049,Industrial Gloves 049,Industrial,Pack,28723.83,35301.58,495,201,14,Discontinued
+P0050,Bottled Water 050,Food & Beverage,Carton,41262.35,62461.67,162,116,10,Discontinued
+P0051,Wireless Headphones 051,Electronics,Carton,5399.55,6721.39,387,133,4,Active
+P0052,Bearing 052,Industrial,Piece,17466.4,23259.61,402,58,14,Discontinued
+P0053,Wireless Headphones 053,Electronics,Box,36122.76,53236.12,53,166,12,Active
+P0054,Carton Box 054,Packaging,Kg,46118.75,67543.74,114,156,5,Active
+P0055,Power Drill 055,Industrial,Box,30968.69,40642.3,437,63,3,Active
+P0056,Tea 056,Food & Beverage,Box,41197.14,52027.76,455,211,14,Active
+P0057,Stretch Film 057,Packaging,Carton,41037.57,55283.72,45,53,11,Active
+P0058,Pallet 058,Packaging,Box,7837.79,9415.13,459,191,10,Discontinued
+P0059,Battery 059,Automotive,Box,59478.28,68961.7,460,48,3,Active
+P0060,Safety Helmet 060,Industrial,Pack,5190.91,6707.11,311,48,18,Active
+P0061,Safety Helmet 061,Industrial,Box,40190.23,51171.75,232,52,7,Active
+P0062,Wireless Headphones 062,Electronics,Box,68729.37,97451.79,299,57,10,Discontinued
+P0063,Battery 063,Automotive,Litre,31596.24,46044.99,443,35,9,Discontinued
+P0064,Printer 064,Office Supplies,Carton,79401.63,98566.94,499,106,6,Discontinued
+P0065,Battery 065,Automotive,Kg,43837.97,65652.24,390,19,16,Active
+P0066,Bearing 066,Industrial,Carton,46812.01,64791.37,379,91,11,Active
+P0067,Air Filter 067,Automotive,Piece,47347.55,57278.23,217,184,3,Active
+P0068,Wireless Headphones 068,Electronics,Kg,5080.01,6590.95,409,202,9,Active
+P0069,Engine Oil 069,Automotive,Kg,43186.84,59774.8,302,96,14,Active
+P0070,Brake Pad 070,Automotive,Box,74695.68,90714.56,306,185,5,Discontinued
+P0071,Office Chair 071,Office Supplies,Pack,34870.39,44214.37,368,103,6,Discontinued
+P0072,Cooking Oil 072,Food & Beverage,Piece,6713.91,8496.17,290,216,13,Active
+P0073,Keyboard 073,Electronics,Piece,31826.99,39051.86,216,72,8,Active
+P0074,Bubble Wrap 074,Packaging,Box,52426.72,64538.17,87,78,5,Active
+P0075,Safety Helmet 075,Industrial,Box,22554.72,29943.75,105,160,3,Active
+P0076,Stapler 076,Office Supplies,Pack,68214.05,102637.83,315,60,4,Discontinued
+P0077,Office Chair 077,Office Supplies,Pack,33766.88,47960.67,173,144,10,Active
+P0078,Bearing 078,Industrial,Pack,48088.34,70700.15,89,82,14,Active
+P0079,Carton Box 079,Packaging,Piece,48321.71,74707.93,63,108,11,Active
+P0080,Coffee Beans 080,Food & Beverage,Litre,40318.46,57789.86,332,36,12,Active
+P0081,Battery 081,Automotive,Carton,29561.61,33615.92,211,168,14,Active
+P0082,Laptop 082,Electronics,Box,54516.87,78967.07,151,103,8,Active
+P0083,Keyboard 083,Electronics,Pack,54533.76,74685.91,435,180,4,Active
+P0084,Power Drill 084,Industrial,Kg,37778.02,54577.31,239,88,8,Active
+P0085,Monitor 085,Electronics,Carton,64502.09,83292.38,306,81,11,Active
+P0086,Office Chair 086,Office Supplies,Litre,43659.02,50875.51,442,229,3,Active
+P0087,Pallet 087,Packaging,Piece,81458.9,121963.84,237,242,13,Active
+P0088,Air Filter 088,Automotive,Kg,22032.67,26501.81,384,57,9,Active
+P0089,Monitor 089,Electronics,Box,32184.88,46243.48,390,162,15,Active
+P0090,Safety Helmet 090,Industrial,Kg,81826.91,117538.14,76,160,2,Active
+P0091,Printer Paper 091,Office Supplies,Piece,33861.03,42198.88,382,83,15,Discontinued
+P0092,Wireless Headphones 092,Electronics,Box,18547.18,27553.21,369,36,5,Active
+P0093,Bearing 093,Industrial,Kg,42266.6,55286.13,224,216,16,Discontinued
+P0094,Wireless Headphones 094,Electronics,Box,26253.47,35720.38,216,65,12,Active
+P0095,SSD 095,Electronics,Carton,25844.44,37050.12,393,151,2,Active
+P0096,Spark Plug 096,Automotive,Box,41060.57,49865.19,303,232,5,Active
+P0097,Coffee Beans 097,Food & Beverage,Carton,75827.52,110667.69,197,84,3,Active
+P0098,Coffee Beans 098,Food & Beverage,Piece,20353.82,31166.64,256,35,17,Discontinued
+P0099,Brake Pad 099,Automotive,Box,59721.65,82211.14,256,250,9,Active
+P0100,Pallet 100,Packaging,Carton,740.46,966.28,311,64,12,Active
+P0101,Monitor 101,Electronics,Kg,51509.57,74735.46,36,204,10,Active
+P0102,Bottled Water 102,Food & Beverage,Litre,53254.15,67713.32,209,117,17,Active
+P0103,Cooking Oil 103,Food & Beverage,Kg,22846.93,27066.52,161,185,4,Active
+P0104,Pallet 104,Packaging,Litre,25620.07,30653.61,297,48,11,Active
+P0105,Power Drill 105,Industrial,Litre,11285.81,15953.7,175,213,4,Active
+P0106,Whiteboard 106,Office Supplies,Carton,17277.13,20730.05,213,184,11,Active
+P0107,Whiteboard 107,Office Supplies,Piece,33422.16,49966.38,328,235,16,Active
+P0108,Industrial Gloves 108,Industrial,Carton,40568.88,62849.1,217,213,10,Active
+P0109,Whiteboard 109,Office Supplies,Kg,61731.82,71000.87,373,189,5,Discontinued
+P0110,Pallet 110,Packaging,Pack,18408.99,27397.22,228,116,10,Discontinued
+P0111,Engine Oil 111,Automotive,Pack,13701.34,15490.02,40,62,6,Active
+P0112,Bottled Water 112,Food & Beverage,Carton,21738.46,29843.89,439,184,13,Active
+P0113,Packing Tape 113,Packaging,Litre,60316.09,87327.26,63,183,12,Active
+P0114,Printer 114,Office Supplies,Kg,71212.39,82751.89,70,236,13,Active
+P0115,Battery 115,Automotive,Kg,30952.13,38016.78,150,154,12,Active
+P0116,Bearing 116,Industrial,Litre,74541.11,90952.35,51,95,15,Active
+P0117,Printer 117,Office Supplies,Carton,50649.62,61388.67,490,224,3,Active
+P0118,Printer 118,Office Supplies,Pack,78481.85,93687.84,460,187,15,Active
+P0119,Spark Plug 119,Automotive,Piece,2357.09,3526.98,226,66,18,Active
+P0120,Printer 120,Office Supplies,Box,79134.25,113622.48,236,214,10,Active
+P0121,Spark Plug 121,Automotive,Pack,16596.61,20530.42,119,200,14,Active
+P0122,Printer 122,Office Supplies,Piece,49424.31,57463.18,208,225,9,Active
+P0123,Industrial Gloves 123,Industrial,Pack,45905.5,58009.3,308,180,4,Active
+P0124,Laptop 124,Electronics,Box,71105.98,100523.98,411,167,3,Active
+P0125,Bottled Water 125,Food & Beverage,Box,11722.91,15569.14,177,14,3,Active
+P0126,Bubble Wrap 126,Packaging,Litre,60029.09,68829.05,226,14,10,Discontinued
+P0127,Snack Pack 127,Food & Beverage,Litre,71897.24,111254.85,369,148,17,Active
+P0128,Bubble Wrap 128,Packaging,Box,31812.1,40819.99,404,136,10,Discontinued
+P0129,Whiteboard 129,Office Supplies,Carton,19002.63,28642.3,126,140,16,Discontinued
+P0130,Office Chair 130,Office Supplies,Box,27662.55,32782.75,173,58,4,Discontinued
+P0131,Whiteboard 131,Office Supplies,Kg,24829.1,29932.3,393,68,6,Active
+P0132,Brake Pad 132,Automotive,Box,28249.54,32825.04,62,174,8,Discontinued
+P0133,Carton Box 133,Packaging,Box,67397.1,99617.9,118,125,15,Active
+P0134,Packing Tape 134,Packaging,Carton,15134.34,19922.48,245,14,15,Active
+P0135,Safety Helmet 135,Industrial,Pack,66949.18,98289.35,182,127,3,Active
+P0136,Printer 136,Office Supplies,Kg,36926.22,54854.75,441,74,15,Active
+P0137,Power Drill 137,Industrial,Kg,16497.76,20930.86,180,28,6,Discontinued
+P0138,Keyboard 138,Electronics,Litre,61096.73,77992.66,183,201,3,Active
+P0139,Spark Plug 139,Automotive,Piece,65339.69,83530.09,42,232,17,Active
+P0140,Pallet 140,Packaging,Litre,65232.66,98212.54,462,58,2,Active
+P0141,Bearing 141,Industrial,Pack,23956.03,31872.38,230,103,10,Active
+P0142,Carton Box 142,Packaging,Box,53577.03,69099.94,301,101,8,Active
+P0143,Spark Plug 143,Automotive,Litre,82542.2,95779.81,36,230,17,Active
+P0144,Laptop 144,Electronics,Carton,45006.84,65582.25,391,246,5,Active
+P0145,Carton Box 145,Packaging,Pack,65264.63,90146.88,30,79,12,Discontinued
+P0146,Laptop 146,Electronics,Litre,64157.57,82761.45,52,166,17,Discontinued
+P0147,Printer 147,Office Supplies,Carton,77345.87,101868.62,335,66,18,Discontinued
+P0148,Stapler 148,Office Supplies,Pack,49561.54,67292.44,247,48,10,Active
+P0149,Stapler 149,Office Supplies,Piece,47991.61,65890.99,487,100,15,Active
+P0150,Monitor 150,Electronics,Pack,66276.4,101063.35,80,75,13,Active
+P0151,Packing Tape 151,Packaging,Carton,6658.27,7842.41,390,115,18,Active
+P0152,Battery 152,Automotive,Pack,29372.8,43085.39,360,101,12,Active
+P0153,Safety Helmet 153,Industrial,Litre,29800.42,43496.29,441,216,14,Discontinued
+P0154,Monitor 154,Electronics,Kg,31041.76,38321.63,404,23,18,Active
+P0155,Brake Pad 155,Automotive,Box,46009.87,57615.72,338,157,5,Active
+P0156,Tea 156,Food & Beverage,Piece,66502.49,78063.92,140,169,12,Active
+P0157,Snack Pack 157,Food & Beverage,Pack,20035.54,29665.09,432,85,11,Active
+P0158,Safety Helmet 158,Industrial,Carton,36596.71,51927.73,298,222,2,Active
+P0159,Stapler 159,Office Supplies,Piece,29882.97,40450.89,290,206,18,Discontinued
+P0160,Packing Tape 160,Packaging,Pack,45737.58,62546.91,173,173,4,Active
+P0161,Keyboard 161,Electronics,Box,50199.79,69633.81,40,242,13,Discontinued
+P0162,Stapler 162,Office Supplies,Kg,59459.67,86292.43,216,189,11,Active
+P0163,Router 163,Electronics,Litre,52651.84,79521.73,201,83,6,Discontinued
+P0164,SSD 164,Electronics,Kg,80356.24,101290.62,419,83,18,Discontinued
+P0165,Office Chair 165,Office Supplies,Piece,51265.39,65153.21,491,224,7,Active
+P0166,Bubble Wrap 166,Packaging,Piece,19398.6,26806.68,209,166,6,Active
+P0167,Safety Helmet 167,Industrial,Box,17372.54,22797.01,451,169,16,Active
+P0168,Cooking Oil 168,Food & Beverage,Kg,81400.0,94543.37,156,80,3,Discontinued
+P0169,Keyboard 169,Electronics,Carton,76777.19,88875.72,257,169,17,Discontinued
+P0170,Carton Box 170,Packaging,Pack,65591.46,96027.22,210,177,13,Active
+P0171,Keyboard 171,Electronics,Piece,37215.5,44295.68,466,114,5,Active
+P0172,Carton Box 172,Packaging,Kg,424.46,608.4,170,34,12,Active
+P0173,Router 173,Electronics,Piece,33355.8,43844.72,340,55,10,Active
+P0174,Air Filter 174,Automotive,Litre,81247.01,102472.75,391,52,16,Active
+P0175,Monitor 175,Electronics,Pack,7123.62,8644.08,455,79,3,Active
+P0176,Safety Helmet 176,Industrial,Kg,33556.78,44841.13,174,94,14,Discontinued
+P0177,Power Drill 177,Industrial,Carton,60323.42,70855.13,450,112,5,Active
+P0178,Stapler 178,Office Supplies,Carton,24344.28,30391.9,46,71,9,Active
+P0179,Laptop 179,Electronics,Kg,7301.24,11191.88,128,245,7,Active
+P0180,Whiteboard 180,Office Supplies,Pack,33190.03,38993.66,306,39,12,Active
+P0181,Bearing 181,Industrial,Carton,3100.94,3582.76,31,180,17,Discontinued
+P0182,Engine Oil 182,Automotive,Kg,21668.37,27792.05,293,195,5,Active
+P0183,Air Filter 183,Automotive,Kg,64088.2,77712.26,482,121,6,Active
+P0184,Bubble Wrap 184,Packaging,Litre,73382.36,92028.08,157,106,6,Discontinued
+P0185,Printer Paper 185,Office Supplies,Kg,50630.88,60204.38,166,111,7,Active
+P0186,Bearing 186,Industrial,Pack,65255.72,74580.36,147,34,7,Discontinued
+P0187,Hydraulic Pump 187,Industrial,Litre,39133.02,56131.81,114,24,13,Discontinued
+P0188,Coffee Beans 188,Food & Beverage,Carton,1920.14,2310.94,324,165,17,Active
+P0189,Bottled Water 189,Food & Beverage,Pack,49442.35,59402.83,72,109,4,Active
+P0190,Cooking Oil 190,Food & Beverage,Pack,67252.06,90174.55,238,85,18,Active
+P0191,Carton Box 191,Packaging,Carton,76303.71,108209.62,429,204,16,Discontinued
+P0192,Engine Oil 192,Automotive,Litre,45484.29,67453.02,215,162,2,Active
+P0193,Industrial Gloves 193,Industrial,Box,27368.37,32387.33,470,163,10,Active
+P0194,Carton Box 194,Packaging,Box,71323.33,92806.75,145,42,16,Active
+P0195,Coffee Beans 195,Food & Beverage,Pack,56116.04,83021.15,97,205,17,Active
+P0196,Router 196,Electronics,Box,68840.77,96213.08,236,215,10,Active
+P0197,Wireless Headphones 197,Electronics,Litre,24036.07,34091.79,223,17,3,Active
+P0198,Carton Box 198,Packaging,Piece,70216.13,100724.88,38,223,2,Active
+P0199,Pallet 199,Packaging,Pack,60963.51,89217.48,325,187,17,Discontinued
+P0200,Tea 200,Food & Beverage,Kg,80871.9,101186.05,422,173,2,Active
+P0201,Coffee Beans 201,Food & Beverage,Box,81457.13,110757.59,47,245,15,Active
+P0202,Safety Helmet 202,Industrial,Pack,31683.64,36721.25,297,174,17,Discontinued
+P0203,Monitor 203,Electronics,Pack,21974.83,26317.75,63,71,5,Active
+P0204,Whiteboard 204,Office Supplies,Litre,73949.31,95249.79,309,156,5,Active
+P0205,Monitor 205,Electronics,Pack,25612.37,32421.54,480,72,4,Active
+P0206,Hydraulic Pump 206,Industrial,Piece,78534.55,97498.56,441,100,8,Active
+P0207,Cooking Oil 207,Food & Beverage,Kg,31742.63,45384.23,32,142,11,Discontinued
+P0208,Office Chair 208,Office Supplies,Carton,31635.8,39779.01,159,116,14,Active
+P0209,Router 209,Electronics,Box,84727.22,124510.64,236,35,13,Active
+P0210,Stapler 210,Office Supplies,Carton,74431.97,84255.96,136,236,14,Active
+P0211,Power Drill 211,Industrial,Carton,44223.17,52791.55,173,144,4,Discontinued
+P0212,SSD 212,Electronics,Piece,76549.69,99897.96,167,225,6,Active
+P0213,Power Drill 213,Industrial,Carton,64363.59,99300.98,76,205,2,Active
+P0214,Pallet 214,Packaging,Kg,25084.87,33704.77,124,156,18,Active
+P0215,Coffee Beans 215,Food & Beverage,Piece,34323.99,45140.03,86,75,5,Active
+P0216,Bearing 216,Industrial,Box,50857.0,77421.0,430,35,18,Active
+P0217,Whiteboard 217,Office Supplies,Litre,68208.07,93527.58,394,47,12,Active
+P0218,Industrial Gloves 218,Industrial,Kg,47836.93,56626.21,52,176,12,Active
+P0219,Packing Tape 219,Packaging,Litre,83584.03,107497.66,311,33,7,Active
+P0220,Power Drill 220,Industrial,Pack,84293.5,120652.05,30,160,6,Active
+P0221,Cooking Oil 221,Food & Beverage,Kg,47585.32,73222.18,187,23,17,Active
+P0222,Whiteboard 222,Office Supplies,Kg,80919.96,100304.54,372,47,18,Active
+P0223,Power Drill 223,Industrial,Box,2307.11,2848.29,362,20,4,Active
+P0224,Brake Pad 224,Automotive,Litre,35664.65,40615.04,187,112,3,Discontinued
+P0225,Wireless Headphones 225,Electronics,Piece,72703.53,112137.05,347,132,8,Active
+P0226,Tea 226,Food & Beverage,Box,9757.11,12875.94,229,114,9,Active
+P0227,Stapler 227,Office Supplies,Carton,27196.38,35333.28,109,237,8,Active
+P0228,SSD 228,Electronics,Pack,82240.98,99195.66,351,11,17,Active
+P0229,Brake Pad 229,Automotive,Box,7145.07,8511.91,220,105,9,Active
+P0230,Cooking Oil 230,Food & Beverage,Piece,54191.65,65009.92,346,159,17,Active
+P0231,Whiteboard 231,Office Supplies,Litre,44476.94,51112.98,295,51,3,Active
+P0232,Hydraulic Pump 232,Industrial,Carton,36051.78,53999.4,293,69,5,Active
+P0233,Brake Pad 233,Automotive,Piece,37192.13,51088.53,59,136,17,Active
+P0234,Printer 234,Office Supplies,Litre,23653.36,28088.05,150,113,15,Active
+P0235,Coffee Beans 235,Food & Beverage,Box,51881.73,79860.59,300,200,12,Active
+P0236,Router 236,Electronics,Carton,71157.49,83412.24,480,237,13,Discontinued
+P0237,Safety Helmet 237,Industrial,Piece,25824.22,30603.39,290,24,16,Discontinued
+P0238,Hydraulic Pump 238,Industrial,Piece,46962.7,53502.37,179,171,13,Discontinued
+P0239,Keyboard 239,Electronics,Kg,50881.11,62824.75,338,96,14,Active
+P0240,Air Filter 240,Automotive,Piece,84051.52,97218.89,378,29,13,Active
+P0241,Router 241,Electronics,Kg,26558.31,39108.62,252,138,12,Active
+P0242,Monitor 242,Electronics,Box,11872.17,15870.95,228,88,13,Active
+P0243,Packing Tape 243,Packaging,Carton,805.16,1164.86,377,159,5,Discontinued
+P0244,Snack Pack 244,Food & Beverage,Piece,14313.5,16395.81,54,42,5,Active
+P0245,Stapler 245,Office Supplies,Pack,51528.6,65437.77,190,168,16,Active
+P0246,Tea 246,Food & Beverage,Carton,72346.31,89759.25,213,207,9,Active
+P0247,Bearing 247,Industrial,Kg,31386.74,40631.93,303,118,7,Discontinued
+P0248,Coffee Beans 248,Food & Beverage,Piece,82916.63,126114.21,444,184,5,Active
+P0249,Safety Helmet 249,Industrial,Piece,11657.74,16371.62,257,96,5,Discontinued
+P0250,Engine Oil 250,Automotive,Piece,59030.79,88011.13,485,23,14,Active
+P0251,Wireless Headphones 251,Electronics,Piece,38560.82,48689.59,184,38,9,Active
+P0252,Bubble Wrap 252,Packaging,Box,1100.84,1485.49,413,213,11,Active
+P0253,Air Filter 253,Automotive,Carton,71808.58,110629.94,310,246,15,Active
+P0254,Bearing 254,Industrial,Pack,72116.57,100737.85,193,239,10,Active
+P0255,Printer 255,Office Supplies,Kg,48381.28,55051.63,163,172,7,Active
+P0256,Cooking Oil 256,Food & Beverage,Box,48679.31,74521.95,29,170,2,Active
+P0257,Cooking Oil 257,Food & Beverage,Piece,61570.78,74919.23,336,211,11,Active
+P0258,Tea 258,Food & Beverage,Box,27827.14,39782.37,331,246,7,Active
+P0259,Coffee Beans 259,Food & Beverage,Piece,84772.96,116800.41,70,12,7,Active
+P0260,Printer Paper 260,Office Supplies,Box,29670.13,39559.34,341,72,3,Discontinued
+P0261,Stretch Film 261,Packaging,Box,6894.89,10430.04,132,180,15,Active
+P0262,Office Chair 262,Office Supplies,Pack,71137.67,106813.94,159,57,8,Active
+P0263,Bubble Wrap 263,Packaging,Litre,76880.6,96043.61,72,247,8,Active
+P0264,Monitor 264,Electronics,Box,14206.19,18105.15,126,166,9,Active
+P0265,Air Filter 265,Automotive,Carton,29185.32,42221.61,167,227,17,Active
+P0266,Cooking Oil 266,Food & Beverage,Carton,76614.62,117083.77,470,103,9,Discontinued
+P0267,Coffee Beans 267,Food & Beverage,Carton,11478.54,13422.9,309,30,2,Discontinued
+P0268,Pallet 268,Packaging,Kg,22016.26,31551.28,208,247,14,Active
+P0269,Cooking Oil 269,Food & Beverage,Pack,84796.1,125466.06,252,243,12,Discontinued
+P0270,Stapler 270,Office Supplies,Litre,70734.39,85927.39,429,112,12,Active
+P0271,Bottled Water 271,Food & Beverage,Litre,13754.62,15986.76,144,210,6,Active
+P0272,Snack Pack 272,Food & Beverage,Kg,69437.32,100733.15,133,17,13,Active
+P0273,Stretch Film 273,Packaging,Carton,69283.78,81136.27,217,132,6,Active
+P0274,Keyboard 274,Electronics,Pack,83815.48,126601.31,321,164,17,Discontinued
+P0275,Power Drill 275,Industrial,Carton,37555.15,43249.55,361,144,5,Active
+P0276,Pallet 276,Packaging,Box,81568.32,112743.01,382,193,16,Active
+P0277,Carton Box 277,Packaging,Litre,77637.2,100840.59,33,25,3,Active
+P0278,Pallet 278,Packaging,Kg,20187.07,24754.89,495,236,7,Discontinued
+P0279,Bearing 279,Industrial,Piece,72658.17,110375.83,138,52,8,Active
+P0280,Hydraulic Pump 280,Industrial,Piece,35437.22,41558.22,269,158,17,Active
+P0281,SSD 281,Electronics,Litre,56796.73,75139.21,94,20,10,Active
+P0282,Cooking Oil 282,Food & Beverage,Litre,42027.37,56961.95,246,248,18,Discontinued
+P0283,Pallet 283,Packaging,Box,54044.42,69507.25,321,33,7,Active
+P0284,Monitor 284,Electronics,Box,35444.74,54560.46,318,224,8,Active
+P0285,Keyboard 285,Electronics,Box,67042.81,85400.9,165,178,4,Active
+P0286,Engine Oil 286,Automotive,Piece,55585.35,78899.12,421,85,9,Active
+P0287,Packing Tape 287,Packaging,Carton,75606.64,111505.5,254,99,3,Active
+P0288,Printer Paper 288,Office Supplies,Pack,34383.86,46988.92,42,71,4,Discontinued
+P0289,Monitor 289,Electronics,Piece,35770.4,42341.77,22,220,9,Active
+P0290,Bubble Wrap 290,Packaging,Kg,76558.48,96034.76,95,201,16,Active
+P0291,Engine Oil 291,Automotive,Kg,78863.8,121888.87,329,249,18,Active
+P0292,Cooking Oil 292,Food & Beverage,Pack,65028.69,95369.62,355,98,9,Active
+P0293,Printer Paper 293,Office Supplies,Litre,46659.65,55145.93,212,211,5,Active
+P0294,Safety Helmet 294,Industrial,Kg,46263.58,53431.45,481,19,18,Active
+P0295,Battery 295,Automotive,Pack,65621.83,95178.42,261,18,11,Active
+P0296,Packing Tape 296,Packaging,Pack,40236.99,61085.82,422,228,2,Active
+P0297,Wireless Headphones 297,Electronics,Box,24569.35,27798.69,364,12,13,Discontinued
+P0298,Tea 298,Food & Beverage,Box,14997.81,21270.53,432,66,17,Discontinued
+P0299,Office Chair 299,Office Supplies,Piece,6746.65,9983.16,471,18,7,Active
+P0300,Brake Pad 300,Automotive,Box,2812.48,3188.52,213,163,4,Active
